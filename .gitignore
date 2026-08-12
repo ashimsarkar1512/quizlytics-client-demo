@@ -21,6 +21,7 @@
 .env.test.local
 .env.production.local
 
+
 # ------------------------------
 # Next.js Build
 # ------------------------------
@@ -65,7 +66,6 @@ next-env.d.ts
 # ------------------------------
 # IDE / Editor
 # ------------------------------
-.vscode/*
 !.vscode/extensions.json
 .idea
 
@@ -81,11 +81,6 @@ Thumbs.db
 *.pem
 *.key
 
-# ------------------------------
-# Misc
-# ------------------------------
-*.swp
-*.swo
 branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
